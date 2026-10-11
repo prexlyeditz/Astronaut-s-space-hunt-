@@ -9,11 +9,11 @@ Control an astronaut, collect stars, and avoid asteroids in this space-themed ga
 
 ### Main Menu
 
-![Astronaut's Space Hunt main menu](Screenshot%202026-10-11%2015.14.32.png)
+![Astronaut's Space Hunt main menu](Screenshot%202026-10-11%2015.14.44.png)
 
 ### Gameplay
 
-![Astronaut's Space Hunt gameplay](Screenshot%202026-10-11%2015.14.44.png)
+![Astronaut's Space Hunt gameplay](Screenshot%202026-10-11%2015.14.32.png)
 
 ## ✨ Features
 
