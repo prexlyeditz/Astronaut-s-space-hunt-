@@ -5,6 +5,15 @@ My first Scratch game, created for Harvard's CS50X Problem Set 0.
 ## 🎮 About the Game
 
 Control an astronaut, collect stars, and avoid asteroids in this space-themed game.
+## 🖼️ Screenshots
+
+### Main Menu
+
+![Astronaut's Space Hunt main menu](Screenshot%202026-10-11%2015.14.32.png)
+
+### Gameplay
+
+![Astronaut's Space Hunt gameplay](Screenshot%202026-10-11%2015.14.44.png)
 
 ## ✨ Features
 
